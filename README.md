@@ -1,2 +1,9 @@
 # DSA-PRAC
-Trying to rewrite and recall all data structure and algorithms i have learned over the years from projects or uni courses
+
+# Run Code
+if node js is installed you can run the alogrithms with following command
+```
+git clone https://github.com/Anindra123/DSA-PRAC.git
+cd DSA-PRAC
+node filename.js
+```
