@@ -1,5 +1,3 @@
-# DSA-PRAC
-
 # Run Code
 if node js is installed you can run the alogrithms with following command
 ```
