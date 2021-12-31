@@ -2,7 +2,7 @@
 
 function bubble_sort(arr) {
   for (let i = 0; i < arr.length; i++) {
-    for (let j = i + 1; j < arr.length; j++) {
+    for (let j = 0; j < arr.length; j++) {
       if (arr[j + 1] < arr[j]) {
         [arr[j + 1], arr[j]] = [arr[j], arr[j + 1]];
       }
